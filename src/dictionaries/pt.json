@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Lucas Lopes — Desenvolvedor Mobile",
+    "description": "Especialista em desenvolvimento mobile com React Native, Kotlin e Java. Criador do Projeto Guardião, premiado no Prêmio Proteção Brasil 2025."
+  },
+  "nav": {
+    "about": "Sobre",
+    "skills": "Skills",
+    "project": "Projeto",
+    "experience": "Experiência",
+    "contact": "Contato"
+  },
+  "hero": {
+    "greeting": "Olá, eu sou",
+    "name": "Lucas Lopes",
+    "role": "Desenvolvedor Mobile",
+    "description": "Especialista em desenvolvimento mobile com experiência em aplicações de missão crítica para segurança do trabalho.",
+    "cta": "Entre em contato",
+    "resume": "LinkedIn"
+  },
+  "about": {
+    "title": "Sobre mim",
+    "p1": "Desenvolvedor mobile com anos de experiência construindo aplicações nativas e multiplataforma. Atualmente na Arkium, onde lidero o desenvolvimento de soluções mobile para segurança do trabalho.",
+    "p2": "Especialista em React Native (CLI e Expo), com domínio também em desenvolvimento nativo com Java e Kotlin. Experiência sólida em integração com APIs, sensores IoT e sistemas de monitoramento em tempo real."
+  },
+  "skills": {
+    "title": "Tecnologias",
+    "mobile": "Mobile",
+    "mobileItems": ["React Native CLI", "Expo", "Kotlin", "Java", "Android SDK"],
+    "web": "Web",
+    "webItems": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Node.js"],
+    "tools": "Ferramentas",
+    "toolsItems": ["Git", "Firebase", "REST APIs", "CI/CD", "Figma"]
+  },
+  "project": {
+    "title": "Projeto em destaque",
+    "badge": "Premiado",
+    "name": "Projeto Guardião",
+    "partnership": "Arkium + Vivo",
+    "description": "Aplicativo de monitoramento remoto de atividades em altura que transforma o celular corporativo do técnico em um elo com a central de segurança.",
+    "features": {
+      "monitoring": {
+        "title": "Monitoramento em tempo real",
+        "description": "Acompanhamento contínuo da atividade do técnico durante trabalhos em altura."
+      },
+      "detection": {
+        "title": "Detecção de incidentes",
+        "description": "Detecção automática de quedas com acionamento rápido de emergências."
+      },
+      "compliance": {
+        "title": "Conformidade NR-35",
+        "description": "Operação em total conformidade com a norma regulamentadora NR-35."
+      }
+    },
+    "award": {
+      "title": "Troféu Prata",
+      "event": "Prêmio Proteção Brasil 2025",
+      "category": "Categoria Trabalho em Altura"
+    },
+    "impact": "Reconhecido pelo Ministério Público como boa prática em segurança do trabalho.",
+    "readMore": "Ler matéria na Revista Proteção"
+  },
+  "experience": {
+    "title": "Experiência",
+    "arkium": {
+      "company": "Arkium",
+      "role": "Desenvolvedor Mobile",
+      "period": "Atual",
+      "description": "Desenvolvimento e manutenção de aplicações mobile de missão crítica para segurança do trabalho. Responsável pelo Projeto Guardião, desde a concepção até a entrega e manutenção contínua."
+    }
+  },
+  "contact": {
+    "title": "Contato",
+    "subtitle": "Tem um projeto em mente? Vamos conversar.",
+    "name": "Nome",
+    "email": "E-mail",
+    "message": "Mensagem",
+    "send": "Enviar mensagem",
+    "namePlaceholder": "Seu nome",
+    "emailPlaceholder": "seu@email.com",
+    "messagePlaceholder": "Conte sobre seu projeto..."
+  },
+  "footer": {
+    "rights": "Todos os direitos reservados."
+  }
+}

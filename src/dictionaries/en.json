@@ -1,0 +1,86 @@
+{
+  "meta": {
+    "title": "Lucas Lopes — Mobile Developer",
+    "description": "Mobile development specialist with React Native, Kotlin, and Java. Creator of Projeto Guardião, awarded at Prêmio Proteção Brasil 2025."
+  },
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "project": "Project",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Lucas Lopes",
+    "role": "Mobile Developer",
+    "description": "Specialist in mobile development with experience in mission-critical applications for workplace safety.",
+    "cta": "Get in touch",
+    "resume": "LinkedIn"
+  },
+  "about": {
+    "title": "About me",
+    "p1": "Mobile developer with years of experience building native and cross-platform applications. Currently at Arkium, where I lead the development of mobile solutions for workplace safety.",
+    "p2": "Specialist in React Native (CLI and Expo), also proficient in native development with Java and Kotlin. Solid experience in API integration, IoT sensors, and real-time monitoring systems."
+  },
+  "skills": {
+    "title": "Technologies",
+    "mobile": "Mobile",
+    "mobileItems": ["React Native CLI", "Expo", "Kotlin", "Java", "Android SDK"],
+    "web": "Web",
+    "webItems": ["Next.js", "React", "TypeScript", "Tailwind CSS", "Node.js"],
+    "tools": "Tools",
+    "toolsItems": ["Git", "Firebase", "REST APIs", "CI/CD", "Figma"]
+  },
+  "project": {
+    "title": "Featured project",
+    "badge": "Award-winning",
+    "name": "Projeto Guardião",
+    "partnership": "Arkium + Vivo",
+    "description": "Remote monitoring app for work-at-height activities that transforms the worker's corporate phone into a link with the security control center.",
+    "features": {
+      "monitoring": {
+        "title": "Real-time monitoring",
+        "description": "Continuous tracking of technician activity during work at height."
+      },
+      "detection": {
+        "title": "Incident detection",
+        "description": "Automatic fall detection with rapid emergency response triggering."
+      },
+      "compliance": {
+        "title": "NR-35 compliance",
+        "description": "Full compliance with Brazil's NR-35 regulatory standard for work at height."
+      }
+    },
+    "award": {
+      "title": "Silver Trophy",
+      "event": "Prêmio Proteção Brasil 2025",
+      "category": "Work at Height Category"
+    },
+    "impact": "Recognized by Brazil's Public Prosecutor's Office as a best practice in workplace safety.",
+    "readMore": "Read the article on Revista Proteção"
+  },
+  "experience": {
+    "title": "Experience",
+    "arkium": {
+      "company": "Arkium",
+      "role": "Mobile Developer",
+      "period": "Current",
+      "description": "Development and maintenance of mission-critical mobile applications for workplace safety. Responsible for Projeto Guardião, from conception to delivery and ongoing maintenance."
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Have a project in mind? Let's talk.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "you@email.com",
+    "messagePlaceholder": "Tell me about your project..."
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
